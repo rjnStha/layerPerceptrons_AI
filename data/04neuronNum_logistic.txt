@@ -1,0 +1,81 @@
+Test accuracy: 95.30%
+0.0005 100 logistic 10 1
+
+
+Test accuracy: 95.86%
+0.0005 100 logistic 20 1
+
+
+Test accuracy: 96.38%
+0.0005 100 logistic 30 1
+
+
+Test accuracy: 96.72%
+0.0005 100 logistic 40 1
+
+
+Test accuracy: 97.14%
+0.0005 100 logistic 50 1
+
+
+Test accuracy: 97.52%
+0.0005 100 logistic 60 1
+
+
+Test accuracy: 97.83%
+0.0005 100 logistic 70 1
+
+
+Test accuracy: 97.35%
+0.0005 100 logistic 80 1
+
+
+Test accuracy: 97.98%
+0.0005 100 logistic 90 1
+
+
+Test accuracy: 98.09%
+0.0005 100 logistic 100 1
+
+
+Test accuracy: 98.05%
+0.0005 100 logistic 110 1
+
+
+Test accuracy: 98.15%
+0.0005 100 logistic 120 1
+
+
+Test accuracy: 98.05%
+0.0005 100 logistic 130 1
+
+
+Test accuracy: 98.19%
+0.0005 100 logistic 140 1
+
+
+Test accuracy: 98.32%
+0.0005 100 logistic 150 1
+
+
+Test accuracy: 98.40%
+0.0005 100 logistic 160 1
+
+
+Test accuracy: 98.48%
+0.0005 100 logistic 170 1
+
+
+Test accuracy: 98.15%
+0.0005 100 logistic 180 1
+
+
+Test accuracy: 98.12%
+0.0005 100 logistic 190 1
+
+
+Test accuracy: 98.23%
+0.0005 100 logistic 200 1
+
+
+

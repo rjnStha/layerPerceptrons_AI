@@ -1,0 +1,16 @@
+Purpose: Multi-layer Perceptrons
+
+Resources: For this project, you will use two resources:
+
+    perceptron - it implements a two-layer neural network with backpropagation.
+    Data from MNIST database of hand-written digits (0-9). It contains four files - images and labels for training set and images and labels for test set. 
+
+Experiments: In your report, you will answer the following questions:
+
+    Learning rate hyperparameter: It is set to 0.005 in the program. Can you improve the accuracy of the network by changing the learning rate? Which value yields the best results?
+    The minibatch size is set at 100. This is the number of training cases considered at a time when calculating change in weights. At batch size of 1, the training is stochastic, i.e., weights are changed after each case. Can you improve the accuracy of the network by changing the batch size? Which value yields the best results?
+    The network uses sigmoid function. Will the accuracy improve if you use tanh function? If so, how much?
+    Note that the derivative of tanh function is ( 2 / ( e^x + e^(-x) ) )^2.
+    The square applies to the entire fraction.
+    The first/input/hidden layer contains 100 neurons. Can you improve the accuracy of the network by changing the number of neurons in the layer? Which value yields the best results?
+    Finally, will changing the topology from one to two hidden layers help improve the accuracy? If so, how many neurons in the first and second hidden layers? 
